@@ -8,7 +8,7 @@
 [![René Rubalcava StackOverflow](https://img.shields.io/badge/StackOverflow-F48024?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/241635/odoenet)
 [![René Rubalcava Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/odoenet)
 
-I'm a *SoftWhere* Developer at [Esri](https://www.esri.com/). I work on all things web development related, JavaScript, and geo! I blog at [odoe.net](https://odoe.net/).
+I'm a Principal *SoftWhere* Engineer at [Esri](https://www.esri.com/). I work on all things web development related, JavaScript, TypeScript, Web Components, and geo! I blog at [odoe.net](https://odoe.net/).
 
 I'm here to help you learn how to code, and build awesome web applications. I specialize in web mapping and spatial development!
 
